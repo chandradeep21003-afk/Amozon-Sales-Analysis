@@ -215,5 +215,5 @@ By making sales data accessible through an intuitive visual interface, stakehold
 ---
 ## Screenshort
 - Amozon Sales Analysis
-  https://github.com/chandradeep21003-afk/Amozon-Sales-Analysis/blob/main/Amozon%20Sales%20Analysis.png
+  ![https://github.com/chandradeep21003-afk/Amozon-Sales-Analysis/blob/main/Amozon%20Sales%20Analysis.png]
   
