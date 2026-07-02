@@ -9,7 +9,7 @@ A comprehensive, interactive data visualization tool designed to analyze and exp
 The Amazon Sales Analysis Dashboard is a data-driven Power BI report built to help stakeholders explore year-to-date sales performance across multiple product categories, identify top-performing items, and understand customer feedback patterns. This dashboard is designed for sales managers, business analysts, marketing strategists, and senior leadership who need actionable insights to optimize inventory, pricing, and promotional strategies.
 
 ---
-
+![Amazon Sales Analysis](https://github.com/chandradeep21003-afk/Amozon-Sales-Analysis/blob/main/Amozon%20Sales%20Analysis.png)
 ## 🛠️ Tech Stack
 
 The dashboard was built using the following tools and technologies:
@@ -211,8 +211,3 @@ By making sales data accessible through an intuitive visual interface, stakehold
 ✓ **Top 5 Products by YTD Reviews** (Bar Chart)
 - Customer satisfaction indicators
 - Product popularity metrics
-
----
-## Screenshort
-- Amozon Sales Analysis
-  ![Amazon Sales Analysis](https://github.com/chandradeep21003-afk/Amozon-Sales-Analysis/blob/main/Amozon%20Sales%20Analysis.png)
